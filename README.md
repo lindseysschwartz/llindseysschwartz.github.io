@@ -1,2 +1,2 @@
-# lindsey.s.schwartz.github.io
+# lindseysschwartz.github.io
 > github sandbox
