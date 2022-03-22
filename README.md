@@ -1,2 +1,2 @@
 # lindseysschwartz.github.io
-> github sandbox
+> small batch
