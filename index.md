@@ -1,16 +1,27 @@
-## dead on the ground
-my friends and family
-1. were buried
-2. all 
-3. around
+88
 
--- 
+---
+## EDUCATION
 
-same worms
-- that eat me
-- are going
+## RESEARCH EXPERIENCE
+  **one**
+  
+  **two**
+  
+  **three**
+  
+  **four**
 
-to eat
-> you too 
+## PROFESSIONAL EXPERIENCE
+  **one**
+  
+  **two**
+  
+  **three**
+  
+  **four**
 
-`88` 
+## TEACHING EXPERIENCE
+
+--- 
+## PROJECT PRESENTATIONS AND AWARDS
